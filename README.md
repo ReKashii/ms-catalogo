@@ -157,7 +157,7 @@ El microservicio incorpora un sembrador inteligente `DataInitializer.java` que s
 *   Cinco reseñas iniciales asociadas de prueba, permitiendo comprobar de manera instantánea el cálculo matemático de los promedios de estrellas desde Postman.
 
 ### Ejecutar el Microservicio:
-Abre una terminal en la raíz de `ms-catalogo` (`C:\Users\renat\OneDrive\Documentos\Duoc\Fullstack I\Bookpoint\ms-catalogo`) y ejecuta el comando de arranque:
+Abre una terminal en la raíz de `ms-catalogo` y ejecuta el comando de arranque:
 
 ```bash
 mvn clean spring-boot:run
